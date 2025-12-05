@@ -18,4 +18,4 @@ Portions of the preprocessing and demultiplexing logic in this pipeline were ada
 1. Clone this repository:
    ```bash
    git clone [https://github.com/hrrsjeong/sckidney_methylome_atlas.git](https://github.com/hrrsjeong/sckidney_methylome_atlas.git)
-   cd your-repo-name
+   
