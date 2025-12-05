@@ -8,14 +8,3 @@ Portions of the preprocessing and demultiplexing logic in this pipeline were ada
 
 * **Original Repository:** [https://github.com/adeylab/sciMETv2](https://github.com/adeylab/sciMETv2)
 
-## Installation & Usage
-
-### Prerequisites
-* [Conda](https://docs.conda.io/en/latest/)
-* [Snakemake](https://snakemake.readthedocs.io/en/stable/)
-
-### Setup
-1. Clone this repository:
-   ```bash
-   git clone [https://github.com/hrrsjeong/sckidney_methylome_atlas.git](https://github.com/hrrsjeong/sckidney_methylome_atlas.git)
-   
